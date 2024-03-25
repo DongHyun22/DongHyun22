@@ -1,3 +1,13 @@
+[![My Skills](https://skillicons.dev/icons?i=java,spring,gradle)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,nginx,jenkins)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,redis)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=idea,eclipse,postman)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
+
 ![](profile-3d-contrib/profile-night-green.svg)
 <!--![](profile-3d-contrib/profile-season-animate.svg)
 ![](profile-3d-contrib/profile-green-animate.svg)
