@@ -13,6 +13,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
 
+<br />
+<br />
+
+# Summary of Activity
 ![](profile-3d-contrib/profile-night-green.svg)
 <!--![](profile-3d-contrib/profile-season-animate.svg)
 ![](profile-3d-contrib/profile-green-animate.svg)
