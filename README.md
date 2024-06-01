@@ -9,9 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,redis)](https://skillicons.dev)
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=idea,eclipse,postman)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,eclipse,postman,git,github,gitlab)](https://skillicons.dev)
 
 <br />
 <br />
