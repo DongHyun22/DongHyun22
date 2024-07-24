@@ -3,7 +3,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,gradle)](https://skillicons.dev)
 
 ### OS / Infra
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,nginx,jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,linux,docker,nginx,jenkins)](https://skillicons.dev)
 
 ### DB
 [![My Skills](https://skillicons.dev/icons?i=mysql,redis)](https://skillicons.dev)
