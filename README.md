@@ -11,6 +11,11 @@
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=idea,eclipse,postman,git,github,gitlab)](https://skillicons.dev)
 
+# Blog
+[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@qhfh12)](https://velog.io/@qhfh12)
+<br />
+<br />
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=qhfh12&color=light)](https://velog.io/@qhfh12)
 <br />
 <br />
 
