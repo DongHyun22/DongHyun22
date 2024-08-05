@@ -14,7 +14,7 @@
 # Blog
 
 <a href="https://velog.io/@qhfh12">
-  <img width="10%" src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white">
+  <img width="10%" src="https://img.shields.io/badge/Velog-20C997?style=round-square&logo=Velog&logoColor=white">
 </a>
 
 <br />
