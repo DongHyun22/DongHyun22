@@ -18,11 +18,6 @@
 </a>
 
 <br />
-<br />
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=qhfh12)](https://velog.io/@qhfh12)
-
-<br />
 
 # Summary of Activity
 ![](profile-3d-contrib/profile-night-green.svg)
